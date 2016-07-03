@@ -1,0 +1,3 @@
+pyglet
+git+https://github.com/BonsaiAI/bonsaicli
+git+https://github.com/BonsaiAI/bonsaisdk
